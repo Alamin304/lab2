@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>qs_8</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="F:\8th semester\oop2\code\first lab\qs_7.cs" Link="qs_7.cs" />
+  </ItemGroup>
+
+</Project>

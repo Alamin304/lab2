@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: qs 5, Configuration: Debug Any CPU ------
+1>qs 5 -> F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

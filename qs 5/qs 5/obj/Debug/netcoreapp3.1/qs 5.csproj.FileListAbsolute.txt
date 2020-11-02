@@ -1,0 +1,12 @@
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.exe
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.deps.json
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.runtimeconfig.json
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.runtimeconfig.dev.json
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.dll
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\bin\Debug\netcoreapp3.1\qs 5.pdb
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\obj\Debug\netcoreapp3.1\qs 5.AssemblyInfoInputs.cache
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\obj\Debug\netcoreapp3.1\qs 5.AssemblyInfo.cs
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\obj\Debug\netcoreapp3.1\qs 5.csproj.CoreCompileInputs.cache
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\obj\Debug\netcoreapp3.1\qs 5.dll
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\obj\Debug\netcoreapp3.1\qs 5.pdb
+F:\8th semester\oop2\code\2nd lab\qs 5\qs 5\obj\Debug\netcoreapp3.1\qs 5.genruntimeconfig.cache
